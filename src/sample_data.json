@@ -1,23 +1,33 @@
 [
   {
     "question": {
-      "choices": ["13", "10", "11", "12"],
+      "choices": [
+        "She has her own body travels to the future with her",
+        "She became someone else",
+        "She became an embryo",
+        "She was dead, nothing else happened"
+      ],
       "correct_choice_index": 3,
-      "text": "How many months are in a year?"
+      "text": "What comes next in this novel 'It not easy to be a man who travels through the future'. A girl who has too much spiritual power but her body can’t stand it physically and dies. After her death, she was bound to the Mecha Learning Machine No. 444444444 under the name of the Mondola Galaxy Mechanical Kingdom. And took her to the future 4731 years. In the future war the baby’s physique has been very strong. What happen to linglan after she is dead?"
     }
   },
   {
     "question": {
-      "choices": ["Brooklyn", "Syracuse", "Manhattan", "Bronx"],
-      "correct_choice_index": 1,
-      "text": "Which location is not a borough of NYC?"
-    }
-  },
-  {
-    "question": {
-      "choices": ["So", "S", "Na", "K"],
+      "choices": [
+        "Physical fitness: A+. Mental strength: Level 2. Potential: S-level",
+        "Physical fitness: S. Mental strength: Level 2. Potential: S-level",
+        "Physical fitness: S. Mental strength: Level 1. Potential: S-level",
+        "Physical fitness: S. Mental strength: Level 2. Potential: A-level"
+      ],
       "correct_choice_index": 2,
-      "text": "What is the symbol for Sodium on the periodic table?"
+      "text": "In the future, her father died in a war because of a trap, and her father was very strong. She was born and her mother uses a detector to test her, and the test result was?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Give up", "Announce that she is a boy", "Show other linglan's test result", "Leave the planet"],
+      "correct_choice_index": 2,
+      "text": "The seemingly biased law of the Federation, the law that can only be inherited by male  relatives, actually has a certain factual basis. Because there is no female operator in all known IN mecha. There is a difference in physical quality between men and women, and no girl can withstand that kind of counterattack. The inherited military meritorious Lord refers to the resources vigorously cultivated by the country. The state will use countless money manpower to train those designated heirs. So girls who have never been able to do this are directly abandoned by the federal government.What do you think Ling Lan’s mother did to get the Inherited Lord of the Army?"
     }
   }
 ]
